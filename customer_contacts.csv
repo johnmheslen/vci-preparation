@@ -1,0 +1,201 @@
+customer_id,first_name,last_name,email,phone,company
+1,WILLIAM, Johnson  ,william.johnson@yahoo.com,(892) 958-9935,Apple Inc.
+2,James,Brown,james.brown@business.net,484.206.3615,INTEL CORP
+3,Linda,garcia,linda.garcia@gmail.com,,Salesforce.com
+4,Richard,Jones,richard.jones@gmail.com,5733667065,Microsoft Corp
+5,Michael,rodriguez,michael.rodriguez@company.com,8559044598,Intel Corp
+6,  David , Johnson  ,david.johnson@business.net,871.711.7482,Amazon.com Inc
+7,ROBERT,Martinez,robert.martinez@yahoo.com,248-312-3504,Netflix Inc
+8,  James ,Jones,james.jones@gmail.com,7499685371,Oracle Corporation
+9,David,Rodriguez,david.rodriguez@gmail.com,854-719-4258,Cisco Systems
+10,MARY,Garcia,,(571) 514-4923,Adobe Systems
+11,Richard,Rodriguez,richard.rodriguez@company.com,740-821-7932,Cisco Systems
+12,WILLIAM,Wilson,william.wilson@business.net,,META PLATFORMS
+13,John,garcia,john.garcia@outlook.com,335-940-8744,Microsoft Corp
+14,Robert, Miller  ,robert.miller@gmail.com,3002627596,ADOBE SYSTEMS
+15,Lisa,Brown,LISA.BROWN@BUSINESS.NET,753-215-2528,MICROSOFT CORP
+16,ROBERT,Jones,robert.jones@outlook.com,769-877-8973,CISCO SYSTEMS
+17,  John ,Martinez,john.martinez@business.net,,Adobe Systems
+18,Mary,Martinez,mary.martinez@company.com,5234674346,Apple Inc.
+19,Richard,Johnson,richard.johnson@business.net,418-718-5345,  Apple Inc. 
+20,Jennifer,Jones,JENNIFER.JONES@BUSINESS.NET,506-879-2697,Salesforce.com
+21,  Sarah ,Anderson,sarah.anderson@outlook.com,2522947939,META PLATFORMS
+22,  Jennifer ,Miller,,,ORACLE CORPORATION
+23,Thomas,Taylor,thomas.taylor@yahoo.com,,Apple Inc.
+24,Michael,miller,michael.miller@outlook.com,8859525065,Apple Inc.
+25,Sarah,Davis,sarah.davis@yahoo.com,(608) 536-5564,Meta Platforms
+26,James,Garcia,james.garcia@outlook.com,,Apple Inc.
+27,Robert,Martinez,ROBERT.MARTINEZ@COMPANY.COM,7519034228,Amazon.com Inc
+28,Jane,Anderson,jane.anderson@company.com,767.330.4143,Tesla Motors
+29,Robert,Rodriguez,robert.rodriguez@yahoo.com,870.529.8618,Apple Inc.
+30,MICHAEL, Wilson  ,michael.wilson@business.net,969-440-6085,Microsoft Corp
+31,Richard, Johnson  ,richard.johnson@business.net,706-609-4997,ADOBE SYSTEMS
+32,Michael,Taylor,michael.taylor@gmail.com,324.667.3184,Intel Corp
+33,Mary,Anderson,mary.anderson@business.net,686-660-5246,Oracle Corporation
+34,Lisa,Johnson,lisa.johnson@outlook.com,282-341-3471,Intel Corp
+35,  Lisa ,Miller,lisa.miller@company.com,912.220.7232,Apple Inc.
+36,Robert,Rodriguez,robert.rodriguez@business.net,(479) 646-8956,Intel Corp
+37,Thomas,Williams,thomas.williams@company.com,285-858-8022,Salesforce.com
+38,Emily,Taylor,emily.taylor@company.com,(219) 967-9837,Netflix Inc
+39,Richard,Smith,richard.smith@gmail.com,,Amazon.com Inc
+40,Jennifer,Anderson,jennifer.anderson@yahoo.com,226.519.7149,Microsoft Corp
+41,Jennifer,Taylor,jennifer.taylor@business.net,,Tesla Motors
+42,Linda,Davis,linda.davis@outlook.com,924-356-8135,Microsoft Corp
+43,Lisa,Davis,lisa.davis@business.net,288-485-8385,Netflix Inc
+44,Emily, Williams  ,emily.williams@outlook.com,,Adobe Systems
+45,Jennifer,Davis,jennifer.davis@company.com,4266144986,IBM Corporation
+46,James,Garcia,james.garcia@outlook.com,(938) 397-6169,Meta Platforms
+47,David, Anderson  ,david.anderson@business.net,3985034727,Salesforce.com
+48,James,Jones, james.jones@company.com ,491.680.8843,INTEL CORP
+49,Lisa,Johnson,lisa.johnson@gmail.com,(511) 287-5066,Salesforce.com
+50,ROBERT,Davis,robert.davis@business.net,835-261-2625,Adobe Systems
+51,  Michael ,Smith, michael.smith@business.net ,495.923.5632,Netflix Inc
+52,Richard,Brown,richard.brown@yahoo.com,345-273-1977,Netflix Inc
+53,LISA,Anderson,lisa.anderson@outlook.com,282.812.1653,Tesla Motors
+54,Linda,Martinez,linda.martinez@outlook.com,379.681.9502,Salesforce.com
+55,Jane,davis,jane.davis@outlook.com,5376219117,META PLATFORMS
+56,Jane,Taylor,jane.taylor@gmail.com,,Netflix Inc
+57,JAMES,Williams,james.williams@company.com,8234453594,Tesla Motors
+58,Lisa,Johnson,lisa.johnson@company.com,922.479.7807,IBM Corporation
+59,James,Anderson,james.anderson@outlook.com,(548) 719-5377,Google LLC
+60,Michael,davis,michael.davis@outlook.com,666-529-4090,Oracle Corporation
+61,Jennifer,Taylor, jennifer.taylor@yahoo.com ,(714) 804-6439,Netflix Inc
+62,Robert,Wilson,,(471) 546-7512,Google LLC
+63,Jennifer, Taylor  ,jennifer.taylor@gmail.com,(900) 494-4727,Adobe Systems
+64,Jennifer,Jones,,2575006873,APPLE INC.
+65,Mary, Miller  ,mary.miller@company.com,672.853.5161,Salesforce.com
+66,Michael,Johnson,michael.johnson@business.net,9064568484,Adobe Systems
+67,Mary,Jones,mary.jones@company.com,,Intel Corp
+68,Richard,Garcia,richard.garcia@business.net,(985) 875-3240,Amazon.com Inc
+69,Jennifer,Williams,jennifer.williams@outlook.com,,Microsoft Corp
+70,RICHARD,Jones,richard.jones@gmail.com,,Intel Corp
+71,  William ,Anderson,william.anderson@company.com,310.891.4830,IBM Corporation
+72,  Jane ,Wilson,jane.wilson@outlook.com,246.238.5986,Adobe Systems
+73,  Jennifer ,Anderson,jennifer.anderson@yahoo.com,7018307686,Oracle Corporation
+74,JANE,Wilson,JANE.WILSON@OUTLOOK.COM,325-665-2501,Meta Platforms
+75,  Michael ,Taylor,michael.taylor@business.net,,Salesforce.com
+76,Michael, Johnson  ,MICHAEL.JOHNSON@YAHOO.COM,(443) 802-6304,IBM Corporation
+77,LISA,Davis,lisa.davis@business.net,8292449543,Cisco Systems
+78,William,Johnson,WILLIAM.JOHNSON@COMPANY.COM,822-351-2076,Adobe Systems
+79,James,Jones,JAMES.JONES@COMPANY.COM,870.866.4522,Adobe Systems
+80,  Jane , Garcia  ,jane.garcia@outlook.com,(685) 268-2494,Netflix Inc
+81,Mary,Rodriguez,mary.rodriguez@gmail.com,9686331842,Oracle Corporation
+82,Sarah,Johnson,sarah.johnson@outlook.com,,Meta Platforms
+83,  DAVID ,Garcia,,(346) 779-7566,Meta Platforms
+84,ROBERT,davis,robert.davis@outlook.com,(781) 810-2391,Meta Platforms
+85,Robert,Davis,robert.davis@outlook.com,5536402816,Salesforce.com
+86,Mary,Smith,mary.smith@yahoo.com,(496) 535-2965,Apple Inc.
+87,James,Wilson, james.wilson@company.com ,2196702275,CISCO SYSTEMS
+88,EMILY,Williams,emily.williams@company.com,290-647-2734,Cisco Systems
+89,Sarah,Garcia,sarah.garcia@business.net,3989946724,CISCO SYSTEMS
+90,Mary,Williams,mary.williams@gmail.com,,Cisco Systems
+91,Lisa, Johnson  ,lisa.johnson@outlook.com,5607192215,Adobe Systems
+92,Linda,Johnson,linda.johnson@company.com,,SALESFORCE.COM
+93,Thomas,Garcia,,861-376-1641,Intel Corp
+94,Thomas,Jones,thomas.jones@outlook.com,(846) 862-6482,Netflix Inc
+95,Thomas,Martinez,thomas.martinez@business.net,517-871-7421,Google LLC
+96,Linda,Williams,LINDA.WILLIAMS@BUSINESS.NET,7205701298,  IBM Corporation 
+97,Michael,Johnson,michael.johnson@gmail.com,9567391618,  Tesla Motors 
+98,Mary,Taylor,mary.taylor@gmail.com,443.654.5668,Google LLC
+99,Sarah,Garcia,sarah.garcia@company.com,591.714.9641,IBM Corporation
+100,William,Davis,william.davis@gmail.com,327-491-2374,Meta Platforms
+101,SARAH,Davis,SARAH.DAVIS@COMPANY.COM,4415952337,Meta Platforms
+102,  Michael , Williams  ,michael.williams@company.com,,Apple Inc.
+103,  Jennifer ,martinez,jennifer.martinez@outlook.com,(444) 629-8489,Oracle Corporation
+104,Sarah, Anderson  ,sarah.anderson@gmail.com,,Google LLC
+105,James,Smith,james.smith@gmail.com,4599651266,Netflix Inc
+106,JENNIFER,Taylor,jennifer.taylor@outlook.com,379.997.8612,Meta Platforms
+107,  David ,Brown,david.brown@gmail.com,6077568756,  Apple Inc. 
+108,David,Johnson,david.johnson@company.com,595.547.4060,CISCO SYSTEMS
+109,Robert,Martinez,robert.martinez@outlook.com,,Google LLC
+110,Thomas,garcia,thomas.garcia@outlook.com,2582767655,Salesforce.com
+111,William,Taylor,,2684417001,Adobe Systems
+112,Emily,davis,,340.742.7012,  Cisco Systems 
+113,  Thomas ,Rodriguez,thomas.rodriguez@outlook.com,826-492-9047,Microsoft Corp
+114,Jane,Taylor,jane.taylor@outlook.com,7637555757,IBM Corporation
+115,James,brown,james.brown@yahoo.com,569.767.7044,Microsoft Corp
+116,Jennifer,Anderson,jennifer.anderson@company.com,524.857.2215,Adobe Systems
+117,Mary,Williams,mary.williams@company.com,3277303507,Cisco Systems
+118,Thomas,Jones,thomas.jones@business.net,,Microsoft Corp
+119,Thomas,Martinez,THOMAS.MARTINEZ@BUSINESS.NET,283-246-5336,Meta Platforms
+120,David,Wilson,david.wilson@company.com,261.361.8202,Tesla Motors
+121,JENNIFER, Garcia  ,jennifer.garcia@outlook.com,4476773007,Netflix Inc
+122,ROBERT,Brown,robert.brown@business.net,363.710.9433,Google LLC
+123,Sarah,Brown,sarah.brown@gmail.com,8698888710,Salesforce.com
+124,Richard, Miller  ,,2527834189,Meta Platforms
+125,Mary,wilson,mary.wilson@gmail.com,547-771-6990,SALESFORCE.COM
+126,Lisa,Rodriguez,lisa.rodriguez@business.net,,Adobe Systems
+127,Jennifer,Martinez,jennifer.martinez@gmail.com,(626) 797-6040,Tesla Motors
+128,  Sarah ,anderson,sarah.anderson@yahoo.com,993-589-3421,Apple Inc.
+129,Michael,Miller,michael.miller@business.net,953-944-2020,Intel Corp
+130,Michael,Davis,michael.davis@outlook.com,,Oracle Corporation
+131,David,Taylor,david.taylor@company.com,(938) 480-5715,Tesla Motors
+132,Richard,Taylor,richard.taylor@outlook.com,652.871.5201,Google LLC
+133,  Jane ,Martinez,JANE.MARTINEZ@YAHOO.COM,(431) 853-4814,  Intel Corp 
+134,Thomas, Williams  ,thomas.williams@company.com,(494) 528-5676,Netflix Inc
+135,Thomas, Smith  , thomas.smith@yahoo.com ,6067074052,Google LLC
+136,David,Davis,david.davis@company.com,716-679-5470,IBM Corporation
+137,John, Anderson  ,john.anderson@business.net,825.854.7643,META PLATFORMS
+138,SARAH,Smith,sarah.smith@company.com,5097961187,Tesla Motors
+139,Robert,Wilson,robert.wilson@outlook.com,502-576-4618,Oracle Corporation
+140,Jennifer,Rodriguez,jennifer.rodriguez@yahoo.com,810.283.9609,Adobe Systems
+141,Thomas,rodriguez,thomas.rodriguez@yahoo.com,,AMAZON.COM INC
+142,  Mary ,Smith,mary.smith@outlook.com,,  Oracle Corporation 
+143,Thomas,Davis,thomas.davis@yahoo.com,9468617887,Apple Inc.
+144,William,Wilson,william.wilson@outlook.com,602-741-3086,Oracle Corporation
+145,Robert,Rodriguez,robert.rodriguez@yahoo.com,(393) 942-2848,NETFLIX INC
+146,Jane,Martinez, jane.martinez@gmail.com ,649-439-9843,Apple Inc.
+147,THOMAS,Anderson,thomas.anderson@business.net,,Salesforce.com
+148,Thomas,Williams,thomas.williams@business.net,,IBM Corporation
+149,Lisa,Brown,lisa.brown@yahoo.com,,AMAZON.COM INC
+150,Emily,Johnson,EMILY.JOHNSON@YAHOO.COM,(819) 817-1647,Oracle Corporation
+151,Linda,Garcia,linda.garcia@gmail.com,959-320-8846,Tesla Motors
+152,David,Miller,david.miller@outlook.com,709.677.2615,  Adobe Systems 
+153,Jennifer,Williams,jennifer.williams@business.net,356-400-6404,Apple Inc.
+154,David,Taylor,david.taylor@company.com,,ADOBE SYSTEMS
+155,  Linda ,Johnson,,206-622-3252,  IBM Corporation 
+156,Thomas,Martinez,THOMAS.MARTINEZ@GMAIL.COM,2122179673,Adobe Systems
+157,Thomas, Williams  ,thomas.williams@business.net,7394586807,Microsoft Corp
+158,JENNIFER,brown,jennifer.brown@gmail.com,977.232.2531,TESLA MOTORS
+159,  Robert , Wilson  ,robert.wilson@gmail.com,4354168790,Cisco Systems
+160,John,Williams,,412.801.3362,Meta Platforms
+161,  WILLIAM ,Rodriguez,william.rodriguez@yahoo.com,(280) 712-6666,Meta Platforms
+162,Mary,Miller,mary.miller@outlook.com,433.564.7150,Cisco Systems
+163,SARAH, Anderson  ,,357.589.3527,Microsoft Corp
+164,  David , Johnson  ,,641.659.9395,Google LLC
+165,Linda,Miller,linda.miller@company.com,772-448-9537,APPLE INC.
+166,David,miller,david.miller@gmail.com,,Tesla Motors
+167,Linda,Martinez,linda.martinez@outlook.com,8668083230,Netflix Inc
+168,Emily,Jones,emily.jones@company.com,533.585.5592,  Intel Corp 
+169,  John ,Anderson,john.anderson@yahoo.com,909.270.7703,Adobe Systems
+170,Robert,Johnson,robert.johnson@company.com,(908) 628-9907,Adobe Systems
+171,JANE,Johnson,jane.johnson@outlook.com,7768607547,Cisco Systems
+172,James, Rodriguez  ,james.rodriguez@yahoo.com,990-895-9199,Salesforce.com
+173,Jane,Anderson,jane.anderson@outlook.com,(694) 556-8801,Google LLC
+174,Jane,Smith,jane.smith@yahoo.com,7283783623,  Meta Platforms 
+175,Robert,Miller,robert.miller@yahoo.com,204-921-4519,Apple Inc.
+176,James,Williams,james.williams@company.com,,Meta Platforms
+177,  Michael ,Wilson,michael.wilson@business.net,5203204908,Intel Corp
+178,Mary,Miller,mary.miller@business.net,377.768.3733,Netflix Inc
+179,John,Davis,john.davis@company.com,706.618.9056,Google LLC
+180,Sarah,Jones,sarah.jones@business.net,,Apple Inc.
+181,James, Taylor  ,james.taylor@company.com,3049535055,  Apple Inc. 
+182,Jane,Taylor,jane.taylor@business.net,824-847-8015,Cisco Systems
+183,  James ,jones,james.jones@outlook.com,(786) 473-9428,Salesforce.com
+184,  William ,Williams,william.williams@yahoo.com,453.979.7434,  Intel Corp 
+185,  Richard ,Johnson,richard.johnson@outlook.com,,Netflix Inc
+186,William,Anderson,william.anderson@business.net,4167065399,Meta Platforms
+187,  Emily ,wilson,,(301) 841-8529,Cisco Systems
+188,  Sarah ,anderson,sarah.anderson@outlook.com,4802956905,Google LLC
+189,JENNIFER,Anderson, jennifer.anderson@gmail.com ,,Cisco Systems
+190,Linda, Miller  ,linda.miller@gmail.com,3043056133,  Intel Corp 
+191,Michael,Johnson,michael.johnson@business.net,939.418.3480,ORACLE CORPORATION
+192,Jennifer,Miller,jennifer.miller@outlook.com,,  Meta Platforms 
+193,Thomas,jones,thomas.jones@business.net,861.255.4921,Amazon.com Inc
+194,  John , garcia  ,john.garcia@business.net,(376) 981-8717,  Meta Platforms 
+195,JAMES, Jones  ,james.jones@company.com,,IBM Corporation
+196,Michael, rodriguez  ,michael.rodriguez@gmail.com,(444) 259-5005,Meta Platforms
+197,William, Anderson  ,william.anderson@yahoo.com,5557359474,Google LLC
+198,Richard,Smith,richard.smith@outlook.com,790.842.2262,Meta Platforms
+199,David,Taylor,david.taylor@gmail.com,(245) 212-5006,Microsoft Corp
+200,James, taylor  ,james.taylor@company.com,(937) 527-5444,Intel Corp
